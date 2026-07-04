@@ -29,11 +29,17 @@ de Java e Orientação a Objetos.
 ## 📁 Estrutura do projeto
 
 ProjectStorageBox/
+
 └── src/
+
 ├── domain/
+
 │    ├── Project.java
+
 │    └── StatusProjeto.java
+
 └── main/
+
 └── Main.java
 
 ## 🎯 Objetivo futuro
