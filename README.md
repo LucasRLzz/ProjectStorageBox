@@ -30,17 +30,12 @@ de Java e Orientação a Objetos.
 
 ProjectStorageBox/
 
-└── src/
-.
-├── domain/
-.
-│    ├── Project.java
-.
-│    └── StatusProjeto.java
-.
-└── main/
-.
-└── Main.java
+- └── src/
+- ├── domain/
+- │    ├── Project.java
+- │    └── StatusProjeto.java
+- └── main/
+- └── Main.java
 
 ## 🎯 Objetivo futuro
 
